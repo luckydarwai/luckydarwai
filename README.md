@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **luckydarvai545@gmail.com**
 
-- 📄 Know about my experiences [Web Development, Flutter Application Development](Web Development, Flutter Application Development)
+- 📄 Know about my experiences [Tech.](Web Development, Flutter Application Development)
 
 - ⚡ Fun fact **I think I am funny**
 
