@@ -5,9 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luckydarwai&label=Profile%20views&color=0e75b6&style=flat" alt="luckydarwai" /> </p>
 
-- 🔭 I’m currently working on [Phishing Detection Solution](https://github.com/luckydarwai/Phishing_detecter_app.git)
-
 - 🌱 I’m currently learning **Flutter**
+- 🔭 I’m currently working on [Phishing Detection Solution](https://github.com/luckydarwai/Phishing_detecter_app.git)
 
 - 👯 SIH Team Project [TeleMedicine App](https://github.com/luckydarwai/Chat-App.git)
 
@@ -15,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/luckydarwai/](https://github.com/luckydarwai/)
 
-- 📝 Problem Solving at [1. GeeksforGeeks 2. LeetCode 3. HackerRank 4. CodeChef](1. GeeksforGeeks 2. LeetCode 3. HackerRank 4. CodeChef)
+- 📝 Problem Solving at [Profiles](1. GeeksforGeeks 2. LeetCode 3. HackerRank 4. CodeChef)
 
 - 💬 Ask me about **Flutter, Web Development, Python Programming**
 
