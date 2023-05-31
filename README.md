@@ -22,7 +22,7 @@
 
 - 📄 Know about my experiences [Tech.](Flutter Application Development,Web Development)
 
-- ⚡ Fact **Bad programmers worry about the code. Good programmers worry about data structures and their relationships.**
+- ⚡ Fact : **Bad programmers worry about the code. Good programmers worry about data structures and their relationships.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
