@@ -16,7 +16,7 @@
 
 - 📝 Problem Solving at [Profiles](1. GeeksforGeeks 2. LeetCode 3. HackerRank 4. CodeChef)
 
-- 💬 Ask me about **Flutter, Web Development, Python Programming, C&C++**
+- 💬 Ask me about **Flutter, Web Development, Python Programming, C&C++, DSA**
 
 - 📫 How to reach me **luckydarvai545@gmail.com**
 
