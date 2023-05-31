@@ -1,6 +1,6 @@
 ![logo](https://github.com/luckydarwai/luckydarwai/blob/main/2.jpg)
 <h1 align="center">Hi 👋, I'm Lucky Darwai</h1>
-<h3 align="center">A passionate Flutter developer from India</h3> 
+<h3 align="center">A passionate Flutter developer from Bhopal Madhya Pradesh, India</h3> 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luckydarwai&label=Profile%20views&color=0e75b6&style=flat" alt="luckydarwai" /> </p>
@@ -16,13 +16,13 @@
 
 - 📝 Problem Solving at [Profiles](1. GeeksforGeeks 2. LeetCode 3. HackerRank 4. CodeChef)
 
-- 💬 Ask me about **Flutter, Web Development, Python Programming**
+- 💬 Ask me about **Flutter, Web Development, Python Programming, C&C++**
 
 - 📫 How to reach me **luckydarvai545@gmail.com**
 
-- 📄 Know about my experiences [Tech.](Web Development, Flutter Application Development)
+- 📄 Know about my experiences [Tech.](Flutter Application Development,Web Development)
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fact **Bad programmers worry about the code. Good programmers worry about data structures and their relationships.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
