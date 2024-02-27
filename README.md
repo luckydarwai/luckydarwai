@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luckydarwai&label=Profile%20views&color=0e75b6&style=flat" alt="luckydarwai" /> </p>
  
-- 🌱**Flutter** enthusiast
+- 🌱**Flutter** enthusiast.
 - 🔭 Currently working at @Eulogik.
 
 - 👯 SIH Team Project [TeleMedicine App](https://github.com/luckydarwai/Chat-App.git)
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **luckydarvai545@gmail.com**
 
-- 📄 Know about my experiences [Tech.](Flutter Application Development,Web Development,Python)
+- 📄 Know about my experiences [Tech.](Flutter Application Development,Web Development,Python).
 
 - ⚡ Fact : **Bad programmers worry about the code. Good programmers worry about data structures and their relationships.**
 
