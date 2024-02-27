@@ -5,12 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luckydarwai&label=Profile%20views&color=0e75b6&style=flat" alt="luckydarwai" /> </p>
  
-- 🌱 I’m currently learning **Flutter**
-- 🔭 I’m currently working at @DRMZ Tech.
+- 🌱**Flutter** enthusiast
+- 🔭 Currently working at @Eulogik.
 
 - 👯 SIH Team Project [TeleMedicine App](https://github.com/luckydarwai/Chat-App.git)
 
-- 🤝 College Minor Project [Online Examination Application](https://github.com/luckydarwai/OnlineExaminationApplication.git)
+- 🤝 College Project [Online Examination Application](https://github.com/luckydarwai/OnlineExaminationApplication.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/luckydarwai/](https://github.com/luckydarwai/)
 
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **luckydarvai545@gmail.com**
 
-- 📄 Know about my experiences [Tech.](Flutter Application Development,Web Development)
+- 📄 Know about my experiences [Tech.](Flutter Application Development,Web Development,Python)
 
 - ⚡ Fact : **Bad programmers worry about the code. Good programmers worry about data structures and their relationships.**
 
