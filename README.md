@@ -1,12 +1,12 @@
 ![logo](https://github.com/luckydarwai/luckydarwai/blob/main/2.jpg)
 <h1 align="center">Hi 👋, I'm Lucky Darwai</h1>
-<h3 align="center">A passionate Flutter developer from Bhopal Madhya Pradesh, India</h3> 
+<h3 align="center">A passionate Salesforce & Flutter developer from Bhopal Madhya Pradesh, India</h3> 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luckydarwai&label=Profile%20views&color=0e75b6&style=flat" alt="luckydarwai" /> </p>
  
 - 🌱**Flutter** enthusiast.
-- 🔭 Currently working at @Eulogik.
+- 🔭 Currently working at @Absyz.
 
 - 👯 SIH Team Project [TeleMedicine App](https://github.com/luckydarwai/Chat-App.git)
 
