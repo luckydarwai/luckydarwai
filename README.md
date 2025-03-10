@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luckydarwai&label=Profile%20views&color=0e75b6&style=flat" alt="luckydarwai" /> </p>
  
-- 🌱**Flutter** enthusiast.
+- 🌱**Flutter** enthusiast/ Salesforce Developer.
 - 🔭 Currently working at @Absyz.
 
 - 👯 SIH Team Project [TeleMedicine App](https://github.com/luckydarwai/Chat-App.git)
