@@ -12,7 +12,7 @@
 
 - 🤝 College Project [Online Examination Application](https://github.com/luckydarwai/OnlineExaminationApplication.git)
 
-- 👨‍💻 All of my projects are available at [https://github.com/luckydarwai/](https://github.com/luckydarwai/)
+- 👨‍💻 All of my projects are available at [https://github.com/luckydarwai/](https://github.com/luckydarwai?tab=repositories)
 
 - 📝 Problem Solving at [Profiles](1. GeeksforGeeks 2. LeetCode 3. HackerRank 4. CodeChef)
 
